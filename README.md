@@ -17,7 +17,11 @@ CSL204 Operating Systems Lab KTU Semester 4
 
 - Cycle 4: Inter Process Communication
     - [4.1](https://github.com/csc-mec/OS_Lab/blob/main/cycle4/fcfs.c) C Program to implement First Come First Serve (FCFS) CPU Scheduling Algorithm
-    - [4.2]() C Program to implement Shortest Job First (SJF) CPU Scheduling Algorithm
-    - [4.3]() C Program to implement Priority CPU Scheduling Algorithm
+    - [4.2](https://github.com/csc-mec/OS_Lab/blob/main/cycle4/sjf.c)) C Program to implement Shortest Job First (SJF) CPU Scheduling Algorithm
+    - [4.3](https://github.com/csc-mec/OS_Lab/blob/main/cycle4/Priority.c)) C Program to implement Priority CPU Scheduling Algorithm
     - [4.4](https://github.com/csc-mec/OS_Lab/blob/main/cycle4/round_robin.c) C Program to implement Round Robin CPU Scheduling Algorithm 
+
+- Cycle 5: Inter Process Communication using Shared Memory
+    - [5.1](https://github.com/csc-mec/OS_Lab/blob/main/cycle5/writer.c) Writer Process
+    - [5.2](https://github.com/csc-mec/OS_Lab/blob/main/cycle5/reader.c) Reader Process
 
