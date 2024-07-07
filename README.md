@@ -35,4 +35,4 @@ CSL204 Operating Systems Lab KTU Semester 4
 
 - Memory Allocation
 
-     - [7.1](https://github.com/csc-mec/OS_Lab/blob/main/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
+     - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
