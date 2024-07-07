@@ -33,7 +33,7 @@ CSL204 Operating Systems Lab KTU Semester 4
 
     - [6.2](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/scan_disk.c) SCAN Algorithm
 
-    - [6.3](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/cscan.c) CSCAN Algorithm
+    - [6.3](https://github.com/mathewalex806/OS_Lab/blob/main/disk_scheduling/cscan.c) CSCAN Algorithm
 
 - Memory Allocation
 
