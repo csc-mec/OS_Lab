@@ -26,6 +26,7 @@ CSL204 Operating Systems Lab KTU Semester 4
     - [5.2](https://github.com/csc-mec/OS_Lab/blob/main/cycle5/reader.c) Reader Process
     - [5.3](https://github.com/csc-mec/OS_Lab/blob/main/cycle5/reader_writer.c) Implementing Reader Writer Problem using Child and Parent Process
     - [5.4](https://github.com/csc-mec/OS_Lab/blob/main/cycle5/sum_ipc.c) Calculating Sum of Elements in Array Using IPC.
+    - [5.5](https://github.com/csc-mec/OS_Lab/blob/main/cycle6/BankersAlgorithm.c)Banker's Algorithm
 
 - Disk Scheduling 
     - [6.1](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/fcfs_disk.c) FCFS Algorithm
