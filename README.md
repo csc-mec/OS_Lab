@@ -32,3 +32,7 @@ CSL204 Operating Systems Lab KTU Semester 4
     - [6.1](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/fcfs_disk.c) FCFS Algorithm
 
     - [6.2](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/scan_disk.c) SCAN Algorithm
+
+- Memory Allocation
+
+     - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
