@@ -40,3 +40,5 @@ CSL204 Operating Systems Lab KTU Semester 4
 
 - Page Replacement
      - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO
+     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LRU.c) LRU
+     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LFU.c) LFU
