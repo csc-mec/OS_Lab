@@ -36,7 +36,7 @@ CSL204 Operating Systems Lab KTU Semester 4
     - [6.3](https://github.com/mathewalex806/OS_Lab/blob/main/disk_scheduling/cscan.c) CSCAN Algorithm
 
 - Memory Allocation Algorithm's
-     - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memory_allocation/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
+     - [7.1](https://github.com/csc-mec/OS_Lab/blob/main/Memory_allocation/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
 
 - Page Replacement Algorithm's
      - [8.0](https://github.com/csc-mec/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO Algorithm
