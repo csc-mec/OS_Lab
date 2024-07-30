@@ -37,3 +37,6 @@ CSL204 Operating Systems Lab KTU Semester 4
 
 - Memory Allocation
      - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
+
+- Page Replacement
+     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO
