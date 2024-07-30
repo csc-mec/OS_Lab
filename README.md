@@ -39,6 +39,6 @@ CSL204 Operating Systems Lab KTU Semester 4
      - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memory_allocation/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
 
 - Page Replacement Algorithm's
-     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO Algorithm
-     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LRU.c) LRU Algorithm
-     - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LFU.c) LFU Algorithm
+     - [8.0](https://github.com/csc-mec/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO Algorithm
+     - [8.0](https://github.com/csc-mec/OS_Lab/blob/main/Page_Replacement/LRU.c) LRU Algorithm
+     - [8.0](https://github.com/csc-mec/OS_Lab/blob/main/Page_Replacement/LFU.c) LFU Algorithm
