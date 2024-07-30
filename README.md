@@ -30,15 +30,15 @@ CSL204 Operating Systems Lab KTU Semester 4
 - Deadlock Detection
     - [6.1.0](https://github.com/csc-mec/OS_Lab/blob/main/cycle6/BankersAlgorithm.c)Banker's Algorithm
 
-- Disk Scheduling 
+- Disk Scheduling Algorithm's
     - [6.1](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/fcfs_disk.c) FCFS Algorithm
     - [6.2](https://github.com/csc-mec/OS_Lab/blob/main/disk_scheduling/scan_disk.c) SCAN Algorithm
     - [6.3](https://github.com/mathewalex806/OS_Lab/blob/main/disk_scheduling/cscan.c) CSCAN Algorithm
 
-- Memory Allocation
+- Memory Allocation Algorithm's
      - [7.1](https://github.com/mathewalex806/OS_Lab/blob/main/Memory_allocation/Memoryallocation.c) Firstfit, Worstfit and Bestfit.
 
-- Page Replacement
+- Page Replacement Algorithm's
      - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/FIFO.c) FIFO
      - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LRU.c) LRU
      - [8.0](https://github.com/mathewalex806/OS_Lab/blob/main/Page_Replacement/LFU.c) LFU
